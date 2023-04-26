@@ -1,0 +1,12 @@
+This is a temporary script file.
+"""
+
+lista=[1,5.3,"Hola",True]
+tupla=(1,5.3,"Hola",True)
+print(lista[0])
+print(lista[1])
+print(lista[2])
+print(lista[3])
+print(lista[-1])
+diccionario={"Mayte":22,"Diana":11,"David":19}
+print(diccionario)
